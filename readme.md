@@ -66,14 +66,7 @@ python drowsiness_detection.py
 
 ---
 
-## 🖼️ Screenshots
-✅ **Normal State**
-![Normal Eye Open](IMAGE_LINK)
 
-❌ **Drowsy State**
-![Drowsiness Alert](IMAGE_LINK)
-
----
 
 ## 🔧 Troubleshooting
 **Issue: OpenCV window doesn’t open (Ubuntu/Linux)**
